@@ -1,7 +1,15 @@
+import "./Homepage.css";
+import Menu from "./menu/page";
 export default function Home(){
   return(
-    <div className="cont">
-      <h1>Minhas férias</h1>
-    </div>
+    <>
+      <div>
+        <Menu></Menu>
+      </div>
+      <div className="cont">
+        <h1>Bem vindo!</h1>
+        <p></p>
+      </div>
+    </>
   )
 }
