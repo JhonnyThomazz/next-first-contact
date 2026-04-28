@@ -8,6 +8,7 @@ export default function Sobre(){
             </div>
             <div className="about">
              <h1>Sobre</h1>
+             <p className="loremlol">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nemo, ipsam nobis praesentium, vel numquam cumque pariatur sequi ut, quos molestiae minima.</p>
             </div>
         </>
        
